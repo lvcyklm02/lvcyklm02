@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Lucy Kim 6.1040 Portfolio",
   description: "6.1040 Fall 2023",
-  base: "/portfolio-lvcyklm02/",
+  base: "/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
