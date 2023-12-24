@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Lucy Kim"
-  text: "Software Developer for Audio/Visual"
-  tagline: "Portfolio"
+  text: "Developer Portfolio"
+  tagline: "Creative software for art"
   actions:
     - theme: brand
       text: GitHub
@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Blogs
-    details: Blogs coming soon.
+    details: Tech and art related thoughts.
     link: /blogs
   - title: Assignments
     details: Assignments for 6.1040 Software Design.

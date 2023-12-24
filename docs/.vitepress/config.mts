@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Lucy Kim 6.1040 Portfolio",
-  description: "6.1040 Fall 2023",
+  title: "Lucy Kim Portfolio",
+  description: "Software for art",
   base: "/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -29,6 +29,6 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa23" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/lvcyklm02" }],
   },
 });
