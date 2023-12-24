@@ -10,7 +10,7 @@ layout: doc
 # Projects
 
 <ul v-if="projects.length > 0">
-  <li v-for="project of projects">
+  <li v-for="project of projects.slice().reverse()">
     <a :href="withBase(project.url)">{{ project.frontmatter.title }}</a>
   </li>
 </ul>

@@ -4,12 +4,12 @@ layout: doc
 ---
 
 # About Me
-
+<h2></h2>
 <div class="row">
     <img alt="profile" src="profile.jpeg" />
     <div>
-        <h2>Lucy Kim</h2>
-        <h3>Class of 2025, 6-3</h3>
+        <h3>Lucy Kim</h3>
+        <h4>Class of 2025, 6-3</h4>
         <p>I'm an MIT junior from Dallas, TX. I am originally from South Korea. I currently live in WILG, the Women's Independent Living Group at MIT.</p>
         <p>I'm looking forward to programming more full-stack projects related to music and video technology.
         </p>
