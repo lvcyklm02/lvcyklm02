@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "Lucy Kim's Software Design Portfolio"
-  text: "Blogging the early stages"
-  tagline: "Informative. Sensational. The Best Blog."
+  name: "Lucy Kim"
+  text: "Software Developer for Audio/Visual"
+  tagline: "Portfolio"
   actions:
     - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa23/vitepress-template"
+      text: GitHub
+      link: "https://github.com/lvcyklm02"
     - theme: alt
       text: LinkedIn
       link: "https://www.linkedin.com/in/lvcyklm/"
