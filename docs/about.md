@@ -6,7 +6,7 @@ layout: doc
 # About Me
 <h2></h2>
 <div class="row">
-    <img alt="profile" src="profile.jpeg" />
+    <img alt="profile" src="./profile.jpeg" />
     <div>
         <h3>Lucy Kim</h3>
         <h4>Class of 2025, 6-3</h4>
