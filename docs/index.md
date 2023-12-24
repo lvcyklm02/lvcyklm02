@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Lucy Kim"
   text: "Developer Portfolio"
-  tagline: "Creative software for art"
+  tagline: "Creative software for art and media"
   actions:
     - theme: brand
       text: GitHub
