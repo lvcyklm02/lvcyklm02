@@ -18,9 +18,6 @@ features:
   - title: Blogs
     details: Tech and art related thoughts.
     link: /blogs
-  - title: Assignments
-    details: Assignments for 6.1040 Software Design.
-    link: /assignments
   - title: About Me
     details: I'm a junior at MIT from Dallas, TX.
     link: /about

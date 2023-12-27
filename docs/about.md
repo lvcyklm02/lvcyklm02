@@ -10,7 +10,7 @@ layout: doc
     <div>
         <h3>Lucy Kim</h3>
         <h4>Class of 2025, 6-3</h4>
-        <p>I'm an MIT junior from Dallas, TX. I am originally from South Korea. I currently live in WILG, the Women's Independent Living Group at MIT.</p>
+        <p>I'm an MIT junior from Dallas, TX. I have a dog and two sisters. I'm on a hip-hop team called MIT Ridonkulous. </p>
         <p>I'm looking forward to programming more full-stack projects related to music and video technology.
         </p>
     </div>
